@@ -5,7 +5,7 @@
 Introduction
 ============
 
-webgpu-rs is an open source for implementing basic examples such as 3D Rendering, Image Processing, Light Effect, etc on webgpu-rs. It started to study and easily apply to a blog or web site.
+webgpu-rs is an open source for implementing basic examples such as 3D Rendering, Image Processing, Light Effect, etc using rust and WebGPU.
 
 
 Requirements
