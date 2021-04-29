@@ -1,0 +1,21 @@
+{
+  "name": "webgpu-rs",
+  "version": "0.0.0",
+  "description": "webgpu-rs is an open source for implementing basic examples such as 3D Rendering, Image Processing, Light Effect, etc using rust and WebGPU.",
+  "main": "index.js",
+  "repository": "https://github.com/gandis0713/webgpu-rs.git",
+  "author": "gandis <gandis0713@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-cli serve"
+  },
+  "devDependencies": {
+    "@wasm-tool/wasm-pack-plugin": "^1.4.0",
+    "html-webpack-plugin": "^5.3.1",
+    "text-encoding": "^0.7.0",
+    "webpack": "^5.36.1",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
